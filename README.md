@@ -16,7 +16,7 @@ The notebook uses Python data analysis and visualization libraries to explore th
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 * Analyze patient medical records
 * Explore feature distributions and trends
